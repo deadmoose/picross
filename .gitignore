@@ -1,5 +1,6 @@
 local.properties
-dist
 libs
+bin
+gen
 
 .*sw*
